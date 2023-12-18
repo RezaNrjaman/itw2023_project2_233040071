@@ -1,8 +1,18 @@
+body {
+  padding-top: 65px !important;
+}
+
 .jumbotron {
   padding-top: 5rem;
   background-color: #1391c2;
 }
 
-body {
-  padding-top: 65px !important;
+span {
+  color: #00abf0;
+}
+
+.lead {
+  color: azure;
+  line-height: 22px;
+  padding-left: 5rem;
 }
